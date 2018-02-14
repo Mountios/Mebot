@@ -1,0 +1,2 @@
+# Mebot
+A Discord bot
